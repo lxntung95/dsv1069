@@ -1,0 +1,12 @@
+-- https://thumbtack.github.io/abba/demo/abba.html
+-- Compute the lifts in metrics and p-values for the binary metrics (30 day orders binary and 30 day views binary) 
+-- using a 95% confidence interval.
+-- 
+-- Orders Binary Conclusion: There was a detriment of -1% in the orders between the control and treatment groups. But
+-- with a p-value of 0.88, the results are not statistically significant. Therefore, we cannot reject the null
+-- hypothesis and cannot conclude there is a statistically significant difference in item orders between the 2 groups.
+-- 
+-- Views Binary Conclusion: There was an improvement of +2.6% in the item views between the control and treatment
+-- groups. However, with a p-value of 0.2, the results are not statistically significant. Therefore, we cannot reject
+-- the null hypothesis and cannot conclude there is a statistically significant difference in item views between
+-- the 2 groups.
